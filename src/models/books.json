@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2",
+    "author": "Isabel Allende",
+    "name": "La casa de los espíritus",
+    "ouwner": "Carlos"
+  },
+  {
+    "id": "3",
+    "author": "Jorge Luis Borges",
+    "name": "Ficciones",
+    "ouwner": "Sofía"
+  },
+  {
+    "id": "4",
+    "author": "Nuevo",
+    "name": "Titulo",
+    "ouwner": "User"
+  },
+  {
+    "id": "5",
+    "author": "shepiere",
+    "name": "don pibote",
+    "ouwner": "User"
+  }
+]
